@@ -1,0 +1,17 @@
+{
+  "name": "node-api-mock",
+  "version": "1.0.0",
+  "description": "A simple NodeJS API for mockable requests during front-end development scenarios.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js"
+  },
+  "author": "mdeamf",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
